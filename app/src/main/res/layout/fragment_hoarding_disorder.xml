@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HoardingDisorder">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="persistentned to save items and distress after discarding them
+y hoarding disorder feel that they must save items, and they experience great distress if they try to discard them (APA, 2013, 2012). These feelings make it
+difficult for them to part with possessions, resulting in an extraordinary accumulation of
+items that clutters their lives and living areas." />
+
+</FrameLayout>

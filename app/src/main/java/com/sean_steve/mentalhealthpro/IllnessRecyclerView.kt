@@ -68,12 +68,12 @@ postToList()
         imagesList.add(image)
     }
     private fun postToList(){
-        addToList("Stress","feeling of tension that can be either emotional or physical",
+        addToList("Anxiety","feeling of tension that can be either emotional or physical",
             R.mipmap.stress)
-        addToList("Bipolar"," causes extreme mood swings that include emotional highs and lows",R.mipmap.bipolar)
-        addToList("ADHD","difficulty sustaining attention, hyperactivity and impulsive behavior.",R.mipmap.adhd)
-        addToList("Depression","mood disorder that causes a persistent feeling of sadness and loss of interest",R.mipmap.depression)
-        addToList("Phasmophobia","A persistent fear of ghosts",R.mipmap.phasmophobia)}
+        addToList("Mood"," causes extreme mood swings that include emotional highs and lows",R.mipmap.bipolar)
+        addToList("Depresive Disorder","difficulty sustaining attention, hyperactivity and impulsive behavior.",R.mipmap.adhd)
+        addToList("Hoarding","mood disorder that causes a persistent feeling of sadness and loss of interest",R.mipmap.depression)
+        addToList("phobia","A persistent fear of ghosts",R.mipmap.phasmophobia)}
 
 }
 

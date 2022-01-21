@@ -85,38 +85,37 @@ during social situations.
 
     </string>
     <string name="phobia">
-        Phobia
-        •fear•The central nervous system’s physiological and emotional response to a serious
-threat to one’s well-being.
         A phobia (from the Greek word for “fear”) is a persistent and unreasonable fear of a
 particular object, activity, or situation. People with a phobia become fearful if they even
 think about the object or situation they dread, but they usually remain comfortable as
-long as they avoid it or thoughts about it.1. Marked, persistent, and disproportionate fear of a specific object
-or situation, typically lasting six
+long as they avoid it or thoughts about it
+
+specific Phobia
+specific phobia is a persistent fear of a specific object or situation
+
+Symptoms
+1. Marked, persistent, and disproportionate fear of a specific object or situation, typically lasting six
 months or more.
 2. Immediate anxiety is usually produced by exposure to the object.
 3. Avoidance of the feared situation.
-4. Significant distress or impairment
-    People with agoraphobia are afraid of being in public places or situations where escape might be difficult or help unavailable, should they experience panic or become
-incapacitated (APA, 2013, 2012) (see Table 4-6).
-    Agoraphobia
-1. Marked, disproportionate, and
-immediate fear about being
-in at least two of the following
+4. Significant distress or impairment.
+Based on APA, 2013, 2012.
+
+AgoraPhobia
+People with agoraphobia are afraid of being in public places or situations where escape might be difficult or help unavailable, should they experience panic or become
+incapacitated (APA, 2013, 2012)
+
+Symptoms
+. Marked, disproportionate, and immediate fear about being in at least two of the following
 situations: public transportation
-(e.g., auto travel) • open spaces
-(e.g., parking lots) • shops,
-theaters, or cinemas • line or
-crowds • outside at home alone.
-2. Fear of agoraphobic situations
-is related to concern that escape
-might be hard or help unavailable
-if one were to experience panic or
-become incapacitated.
-3. Avoidance of agoraphobic
-situations.
-4. Symptoms typically last six or more
-months
+• open spaces(e.g., auto travel)
+• shops, theaters, or cinemas (e.g., parking lots)
+• line or crowds
+• outside at home alone.
+2. Fear of agoraphobic situations is related to concern that escape might be hard or help unavailable
+if one were to experience panic or become incapacitated.
+3. Avoidance of agoraphobic situations.
+4. Symptoms typically last six or more months
 5. Significant distress or impairment.
 
     </string>
@@ -225,6 +224,7 @@ substance or medical condition.
     <string name="tab_my_feed">My Feed</string>
     <string name="title_home">Home</string>
     <string name="title_create_article">Create Article</string>
+    <string name="obsessive">Obsessions are persistent thoughts, urges, or images that seem to invade a person’s consciousness. Compulsions are repetitive and rigid behaviors or mental acts that people feel they must perform in order to prevent or reduce anxiety a diagnosis of obsessive-compulsive disorder is called for when obsessions or compulsions are excessive or unreasonable, cause great distress, take up much time, and impair daily functions obsessive-compulsive-related disorders and assigned four of these patterns to that group: hoarding disorder, hair-pulling disorder, excoriation (skin-picking) disorder, and body dysmorphic disorder. Collectively, these four disorders are displayed by at least 5 percent of all people (Frost et al., 2012; Keuthen et al., 2012, 2010; Wolrich, 2011; Duke et al., 2009). Symptoms 1. Presence of recurrent obsessions, compulsions, or both. 2. The obsessions and/or compulsions are time-consuming or cause clinically significant distress or impairment. Based on APA, 2013, 2012.</string>
     <string-array name="list_tasks_array">
         <item>@string/nav_all</item>
         <item>@string/nav_active</item>

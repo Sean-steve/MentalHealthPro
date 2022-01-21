@@ -15,6 +15,30 @@
             app:destination="@id/anxiety"
             app:popUpTo="@id/illnessRecyclerView"
             app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_depressiveDisorder"
+            app:destination="@id/depressiveDisorder" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_excoriation"
+            app:destination="@id/excoriation" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_obsessingCompulsive"
+            app:destination="@id/obsessingCompulsive" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_obsessingCompulsive2"
+            app:destination="@id/obsessingCompulsive" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_obsessingCompulsive3"
+            app:destination="@id/obsessingCompulsive" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_moodRelatedDisorder"
+            app:destination="@id/moodRelatedDisorder" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_hoardingDisorder"
+            app:destination="@id/hoardingDisorder" />
+        <action
+            android:id="@+id/action_illnessRecyclerView_to_phobia2"
+            app:destination="@id/phobia2" />
     </fragment>
     <fragment
         android:id="@+id/anxiety"
@@ -113,6 +137,36 @@
         android:name="com.sean_steve.mentalhealthpro.blog.PostLikedBy"
         android:label="postlikedby"
         tools:layout="@layout/postlikedby" />
+    <fragment
+        android:id="@+id/depressiveDisorder"
+        android:name="com.sean_steve.mentalhealthpro.DepressiveDisorder"
+        android:label="fragment_depressive_disorder"
+        tools:layout="@layout/fragment_depressive_disorder" />
+    <fragment
+        android:id="@+id/excoriation"
+        android:name="com.sean_steve.mentalhealthpro.Excoriation"
+        android:label="fragment_excoriation"
+        tools:layout="@layout/fragment_excoriation" />
+    <fragment
+        android:id="@+id/hoardingDisorder"
+        android:name="com.sean_steve.mentalhealthpro.HoardingDisorder"
+        android:label="fragment_hoarding_disorder"
+        tools:layout="@layout/fragment_hoarding_disorder" />
+    <fragment
+        android:id="@+id/moodRelatedDisorder"
+        android:name="com.sean_steve.mentalhealthpro.MoodRelatedDisorder"
+        android:label="fragment_mood_related_disorder"
+        tools:layout="@layout/fragment_mood_related_disorder" />
+    <fragment
+        android:id="@+id/obsessingCompulsive"
+        android:name="com.sean_steve.mentalhealthpro.ObsessingCompulsive"
+        android:label="fragment_obsessing_compulsive"
+        tools:layout="@layout/fragment_obsessing_compulsive" />
+    <fragment
+        android:id="@+id/phobia2"
+        android:name="com.sean_steve.mentalhealthpro.Phobia"
+        android:label="phobia"
+        tools:layout="@layout/phobia" />
 
 
 </navigation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Excoriation">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Skin-Picking disorder)--
+Persons with excoriation (skin-picking) disorder keep picking at their skin, resulting in
+significant sores or wounds (APA, 2013)
+ hair-pulling disorder, also known as trichotillomania, repeatedly pull
+out hair from their scalp, eyebrows, eyelashes, or other parts of the body (APA, 2013,
+2012). The disorder usually centers on just one or two of these body sites, most often
+the scalp.
+results to wounds and sores" />
+
+</FrameLayout>
