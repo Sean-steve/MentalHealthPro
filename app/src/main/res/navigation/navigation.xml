@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/welcomeScreen">
+    <fragment
+        android:id="@+id/welcomeScreen"
+        android:name="com.sean_steve.mentalhealthpro.WelcomeScreen"
+        android:label="welcome_screen"
+        tools:layout="@layout/welcome_screen" >
+        <action
+            android:id="@+id/action_welcomeScreen_to_login"
+            app:destination="@id/login" />
+    </fragment>
+    <fragment
+        android:id="@+id/register2"
+        android:name="com.sean_steve.mentalhealthpro.Register"
+        android:label="register"
+        tools:layout="@layout/register" >
+        <action
+            android:id="@+id/action_register2_to_navDrawer"
+            app:destination="@id/navDrawer"
+            app:enterAnim="@anim/fui_slide_in_right"
+            app:exitAnim="@anim/fui_slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/login"
+        android:name="com.sean_steve.mentalhealthpro.Login"
+        android:label="login"
+        tools:layout="@layout/login" >
+        <action
+            android:id="@+id/action_login_to_forgotPassword"
+            app:destination="@id/forgotPassword"
+            app:popEnterAnim="@anim/nav_default_enter_anim"
+            app:popExitAnim="@anim/nav_default_exit_anim"
+            app:popUpToInclusive="true"
+
+            />
+        <action
+            android:id="@+id/action_login_to_navDrawer"
+            app:destination="@id/navDrawer"
+            app:enterAnim="@anim/fui_slide_in_right"
+            app:exitAnim="@anim/fui_slide_out_left"
+            app:popUpTo="@id/navDrawer"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_login_to_register2"
+            app:destination="@id/register2" />
+    </fragment>
+    <fragment
+        android:id="@+id/forgotPassword"
+        android:name="com.sean_steve.mentalhealthpro.ForgotPassword"
+        android:label="forgot_password"
+        tools:layout="@layout/forgot_password" />
+    <activity
+        android:id="@+id/navDrawer"
+        android:name="com.sean_steve.mentalhealthpro.NavDrawer"
+        android:label="app_bar_main"
+        tools:layout="@layout/app_bar_main" />
+</navigation>

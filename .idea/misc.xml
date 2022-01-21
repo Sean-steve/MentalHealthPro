@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/drawable/check_circle.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/drawable/nav_header.xml" value="0.240625" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/drawable/verified_user.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/activity_main.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/add_post.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/add_task_fragment.xml" value="0.14" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/anxiety.xml" value="0.22" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/app_bar_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/article_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/auth_fragment.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/content_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/cummunity.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/forgot_password.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/fragment_global.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/fragment_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/fragment_item_list.xml" value="0.13425925925925927" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/fragment_users.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/home_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/illness_recycler_view.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/illness_recycler_view_list.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/item_articles_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/item_comment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/item_comment_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/login.xml" value="0.25" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/my_feed_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/nav_header.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/navdrawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/nevdrawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/new_article_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/panic_disorder.xml" value="0.2203125" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/phobia.xml" value="0.2203125" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/post_details.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/postlikedby.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/profile_settings_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/ptsd.xml" value="0.2203125" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/raw_comments.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/raw_post.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/raw_users.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/recycler.xml" value="0.1" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/register.xml" value="0.22" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/settings.xml" value="0.1" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/statistics_fragment.xml" value="0.10885416666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/task_activity.xml" value="0.10885416666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/task_detail_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/task_item.xml" value="0.15" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/tasks_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/tracker.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/layout/welcome_screen.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/menu/drawer_actions.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/menu/filter_tasks.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/menu/main_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/menu/nav_menu.xml" value="0.33" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/menu/task_detail_fragment_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/murii/AndroidStudioProjects/MentalHealthPro/app/src/main/res/menu/task_fragment_menu.xml" value="0.1638888888888889" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

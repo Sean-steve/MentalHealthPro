@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">Mental HealthPro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="health">Health</string>
+    <string name="mental">Mental</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="sign_in">Sign In?</string>
+    <string name="fullname">Full Name</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="nav_header_desc">Hello User</string>
+    <string name="header_title">Hello User</string>
+    <string name="header_text">For the better Days</string>
+    <string name="illneslist">Illness List</string>
+    <string name="Community">Community</string>
+    <string name="tracker">Tracker</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="illness">Illness</string>
+    <string name="bad_illness">Bad Illness</string>
+    <string name="get_started">Get Started</string>
+    <string name="prompt_email">Enter Email</string>
+    <string name="Submit">Submit</string>
+    <string name="receiveconfirmation">You will recieve an email confirmation to reset your password</string>
+    <string name="noAccount">Do not have an Account?</string>
+    <string name="anxiety">The vague sense of being
+in danger is usually called anxiety
+
+    •anxiety•The central nervous system’s
+physiological and emotional response to a
+vague sense of threat or danger.
+    •generalized anxiety disorder•A disorder marked by persistent and excessive
+feelings of anxiety and worry about numerous events and activities.
+        People with generalized anxiety disorder experience excessive anxiety under most
+circumstances and worry about practically anything (Turk &amp; Mennin, 2011). In fact,
+their problem is sometimes described as free-floating anxiety.
+        Symptoms
+        1. Excessive or ongoing anxiety and
+worry, for at least three months,
+about two or more activities or
+events.
+2. Restlessness and/or muscle
+tension.
+3. Behavior may be affected by
+anxiety and worry.
+4. Significant distress or impairment.
+
+        Social Anxiety Disorders
+        People with social anxiety disorder, by
+contrast, have severe, persistent, and irrational
+anxiety about social or performance situations
+in which scrutiny by others and embarrassment may occur (APA, 2013, 2012)
+        Social Anxiety Disorder
+1. Marked, disproportionate, and
+persistent fear or anxiety about
+one or more social situations
+in which individual is exposed
+to possible scrutiny by others,
+typically lasting six months or
+more.
+2. Fear of being negatively evaluated
+by or offensive to others.
+3. Anxiety is almost always produced
+by exposure to the social situation.
+4. Avoidance of feared situations.
+5. Significant distress or impairment.
+Based on APA, 2013, 2012.
+        Causes of Social Anxiety
+        w They hold unrealistically high social standards and so believe that they must
+perform perfectly in social situations.
+w They view themselves as unattractive social beings.
+w They view themselves as socially unskilled and inadequate.
+w They believe they are always in danger of behaving incompetently in social
+situations.
+w They believe that inept behaviors in social situations will inevitably lead to
+terrible consequences.
+w They believe that they have no control over feelings of anxiety that emerge
+during social situations.
+
+    </string>
+    <string name="phobia">
+        Phobia
+        •fear•The central nervous system’s physiological and emotional response to a serious
+threat to one’s well-being.
+        A phobia (from the Greek word for “fear”) is a persistent and unreasonable fear of a
+particular object, activity, or situation. People with a phobia become fearful if they even
+think about the object or situation they dread, but they usually remain comfortable as
+long as they avoid it or thoughts about it.1. Marked, persistent, and disproportionate fear of a specific object
+or situation, typically lasting six
+months or more.
+2. Immediate anxiety is usually produced by exposure to the object.
+3. Avoidance of the feared situation.
+4. Significant distress or impairment
+    People with agoraphobia are afraid of being in public places or situations where escape might be difficult or help unavailable, should they experience panic or become
+incapacitated (APA, 2013, 2012) (see Table 4-6).
+    Agoraphobia
+1. Marked, disproportionate, and
+immediate fear about being
+in at least two of the following
+situations: public transportation
+(e.g., auto travel) • open spaces
+(e.g., parking lots) • shops,
+theaters, or cinemas • line or
+crowds • outside at home alone.
+2. Fear of agoraphobic situations
+is related to concern that escape
+might be hard or help unavailable
+if one were to experience panic or
+become incapacitated.
+3. Avoidance of agoraphobic
+situations.
+4. Symptoms typically last six or more
+months
+5. Significant distress or impairment.
+
+    </string>
+    <string name="panicdisorder">
+        Anyone can react with panic when a real threat looms up suddenly.
+Some people, however, experience panic attacks—periodic, short bouts of panic that
+occur suddenly, reach a peak within 10 minutes, and gradually pass (APA, 2013, 2012).
+        1. Recurrent unexpected panic attacks.
+2. A month or more of one of the
+following symptoms after at least
+one of the attacks.
+(a) Persistent concern or worry
+about having additional
+attacks.
+(b) Significant maladaptive
+change in behavior related to
+the attacks.
+Based on APA, 2013, 2012.
+
+    </string>
+    <string name="ptsd">
+        Posttraumatic stress disorder is characterized by a range of symptoms from anxiety
+to depression, detachment, guilt, and
+anger. Here a veteran of the war in Iraq
+displays both rage and anxiety during
+therapy for PTSD.
+
+        1. Exposure to a traumatic event—
+actual or threatened death, serious
+injury, or sexual violation.
+2. One or more of the following
+intrusive symptoms: • recurrent,
+involuntary, and distressing
+memories • recurrent distressing
+dreams • dissociative reactions,
+such as flashbacks • significant
+distress at exposure to cues of the
+event(s) • marked physiological
+reactions to reminders of the
+event(s).
+3. Persistent avoidance of stimuli
+associated with the event(s).
+4. Negative changes in cognitions
+and moods, such as the inability
+to remember important aspects of
+the event(s), exaggerated negative
+beliefs about oneself, or persistent
+negative emotions.
+5. Marked changes in arousal and
+reactivity, such as hypervigilance,
+extreme startle response, or sleep
+disturbances.
+6. Significant distress or impairment,
+with symptoms lasting more than
+one month.
+Based on APA, 2013, 2012
+    </string>
+    <string name="disassociative_amnesia">
+        People with dissociative amnesia are unable to recall important information, usually
+of a stressful nature, about their lives (APA, 2013, 2012). The loss of memory is much
+more extensive than normal forgetting and is not caused by physical factors such as a
+blow to the head
+        Dissociative Amnesia
+1. Inability to recall important autobiographical information, usually
+of a traumatic or stressful nature,
+that is beyond ordinary forgetting.
+2. Significant distress or impairment.
+3. Symptoms are not attributable to a
+substance or medical condition. 
+    </string>
+    <string name="statistics_no_tasks">No Statistics Found</string>
+    <string name="no_tasks_image_content_description">No Image Description</string>
+    <string name="title_hint">Add Tittle</string>
+    <string name="description_hint">Add Description</string>
+    <string name="list_title">Task List</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_completed">Completed</string>
+    <string name="menu_delete_task">Delete</string>
+    <string name="menu_filter">Filter</string>
+    <string name="clear">Clear</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_tasks_all">No Tasks</string>
+    <string name="label_all">All Tasks</string>
+    <string name="label_active">Active Tasks</string>
+    <string name="no_tasks_active">No Acive Tasks</string>
+    <string name="label_completed">Completed Task</string>
+    <string name="no_tasks_completed">No Completed Tasks</string>
+    <string name="completed_tasks_cleared">Completed Task Cleared</string>
+    <string name="task_marked_complete">Marked Complete</string>
+    <string name="task_marked_active">Marked Complete</string>
+    <string name="successfully_saved_task_message">Successfully Saved</string>
+    <string name="successfully_added_task_message">New Task Added</string>
+    <string name="successfully_deleted_task_message">Task Deleted</string>
+    <string name="loading_tasks_error">Load Error</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="empty_task_message">Task is Empty</string>
+    <string name="no_data">No Data</string>
+    <string name="statistics_active_tasks">Active tasks: %.1f%%</string>
+    <string name="statistics_completed_tasks">Completed tasks: %.1f%%</string>
+    <string name="string_edit_profile_settings">Edit Settings</string>
+    <string name="string_profile_name">User</string>
+    <string name="tab_global_feed">global feed</string>
+    <string name="tab_my_feed">My Feed</string>
+    <string name="title_home">Home</string>
+    <string name="title_create_article">Create Article</string>
+    <string-array name="list_tasks_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+</resources>

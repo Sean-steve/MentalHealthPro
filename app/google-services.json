@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518862567169",
+    "project_id": "mental-healthpro",
+    "storage_bucket": "mental-healthpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518862567169:android:b0adc00ce1f74b82d78d00",
+        "android_client_info": {
+          "package_name": "com.sean_steve.mentalhealthpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518862567169-i4dmhrkf3cudq3l8lv7i8dgpo00u0p4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sean_steve.mentalhealthpro",
+            "certificate_hash": "8890c1ae2cb5d212c687143a8ed04b552ff82bff"
+          }
+        },
+        {
+          "client_id": "518862567169-c2cqjmns14u8ica55tcuqopdglk57vr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrTHZaX9vs8K_ekI92e7rX4Jl3_ycSe3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518862567169-c2cqjmns14u8ica55tcuqopdglk57vr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
