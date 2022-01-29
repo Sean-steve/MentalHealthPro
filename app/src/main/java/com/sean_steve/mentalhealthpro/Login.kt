@@ -111,6 +111,7 @@ class Login : Fragment() {
     }
     private fun signinValidate() {
         when {
+
             TextUtils.isEmpty(signinemail.text.toString().trim()) -> {
                 signinemail.setError("Please enter your email")
             }
@@ -124,7 +125,6 @@ class Login : Fragment() {
                 if (signinemail.text.toString().trim()
                         .matches(Regex("[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z]+"))
                 ) {
-                   // signIn(signinemail.text.toString(),signinpassword.text.toString())
                     //firebaseAuthentication()
                     launchSignInFlow()
 
